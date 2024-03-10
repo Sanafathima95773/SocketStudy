@@ -1,4 +1,6 @@
-# Ex.No:1a  			Study of Socket Programming
+NAME: Sana Fathima H
+Register Number: 212223240145
+# Ex.No:1a  Study of Socket Programming
 
 ## Aim: 
 To perform a study on Socket Programming
